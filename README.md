@@ -6,7 +6,7 @@
 5. Configure the needed requirments in the "config.lua"
 
 ## Setup Bot
-1. If you dont know how to setup the bot watch the setupbot.mp4
+1. If you dont know how to setup the bot watch the `setupbot.mp4`
 2. If you know how to set up a discord bot & then u are all good
 
 ## Usage / Documentation
@@ -92,7 +92,7 @@ end
 
 ```lua
 -- Check if player has admin role before allowing command
-RegisterCommand('admincommand', function(source, args, rawCommand)
+RegisterCommand('banexample', function(source, args, rawCommand)
     local adminRoleID = 123456789012345678
     
     if exports['connector_discord']:PlayerHasRole(source, adminRoleID) then
