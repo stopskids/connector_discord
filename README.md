@@ -4,10 +4,12 @@
 3. Follow the `Setup Bot` Installation below.
 4. Add `ensure connector_discord` to your server.cfg
 5. Configure the needed requirments in the "config.lua"
+6. MAKE SURE THE BOT IS ABOVE ALL ROLES !
 
 ## Setup Bot
 1. If you dont know how to setup the bot watch the `setupbot.mp4`
 2. If you know how to set up a discord bot & then u are all good
+3. MAKE SURE THE BOT IS ABOVE ALL ROLES !
 
 ## Usage / Documentation
 
